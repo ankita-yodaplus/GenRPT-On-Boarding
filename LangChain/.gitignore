@@ -1,0 +1,10 @@
+langchain-env
+.env
+
+*.pdf
+
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
